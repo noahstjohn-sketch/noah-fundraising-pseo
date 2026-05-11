@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fundraising.noahstjohn.com/sitemap-index.xml
